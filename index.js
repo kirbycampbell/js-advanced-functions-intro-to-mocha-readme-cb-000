@@ -19,5 +19,5 @@ function shouting(statement){
 }
 
 function roundDown(num){
-  return num.floor();
+  return num.Math.floor();
 }
